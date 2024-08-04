@@ -1,2 +1,2 @@
-# Chale_hotel
+# Chalé Hotel
  
