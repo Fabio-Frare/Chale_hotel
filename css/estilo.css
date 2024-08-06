@@ -155,3 +155,32 @@ p {
     font-size: 1em;
     margin-bottom: 10px;
 }
+
+/* Formatações da area lateral */
+#beneficios li {
+    padding: 8px;
+    border-bottom: 1px solid #f3efcb;
+    height: 6em;
+}
+
+#beneficios li a img {
+    float: left;
+    margin-right: 8px;
+}
+
+#beneficios li a p {
+    font-size: 0.8em;
+    color: #000;
+}
+
+#beneficios li a h3 {
+    font-size: 1em;
+    color: #615b2b;
+    padding: 5px 0px;
+    background: url(../imagens/ornamento.png) no-repeat center right;
+}
+
+#beneficios li:hover {
+    background: #f6f3d6;
+    cursor: pointer;
+}
