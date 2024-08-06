@@ -11,7 +11,7 @@ body {
 }
 
 #container {
-    background: #ede9cc;
+    background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;
@@ -88,7 +88,6 @@ a.reserva {
 }
 
 /* Barra de navegação vertical*/
-
 #menu {
     margin-top: 15px;
 }
@@ -116,4 +115,40 @@ ul#navegacao a:hover {
    width: 226px;
    height: 164px;
    float: right; 
+}
+
+/* Area de conteúdos */
+#area-principal {
+    float: left;
+    width: 50%;
+    background: url(../imagens/bg-area-principal.png) top left repeat-x;
+    padding: 15px 0px;
+}
+
+#area-lateral {
+    float: right;
+    width: 50%;
+    background: url(../imagens/bg-area-lateral.png) top left repeat-x;
+    padding: 20px 0px;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+}
+
+#rodape {
+    clear: both;
+}
+
+/* Formatações de textos */
+h2 {
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0px;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 10px;
 }
