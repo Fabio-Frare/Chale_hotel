@@ -12,4 +12,4 @@ Módulo básico de HTML e CSS - Projeto básico de um site para um Chalé Hotel.
 
 >Figura 1: Home do site Chalé Hotel
 
-![Home do Site Chalé Hotel](images/Site.png)
+![Home do Site Chalé Hotel](imagens/Site.png)
